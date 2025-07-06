@@ -7,6 +7,13 @@ A modular magnetic lamp system with interchangeable 3D-printed terrain faceplate
 - Designed using Fusion360 and Blender
 - USB-C power input
 
-![Overhead_Base_With_Faceplates](Images/Overhead_Base_With_Faceplates.jpg)
+## Future Ideas
+- Add Matter/ESP32 smart control
+- RGBW LED support
+- More geographic faceplates (Grand Canyon, major city, etc.)
 
-![Zion_Canyon_Lamp](Images/Zion_Canyon_Lamp.jpg)
+## Gallery
+
+<img src="Images/Overhead_Base_With_Faceplates.jpg" alt="Overhead View with Faceplates" width="500"/>
+
+<img src="Images/Zion_Canyon_Lamp.jpg" alt="Zion Canyon Lamp Lit Up" width="500"/>
