@@ -13,7 +13,6 @@ A modular magnetic lamp system with interchangeable 3D-printed terrain faceplate
 - More geographic faceplates (Grand Canyon, major city, etc.)
 
 ## Gallery
-
 <p float="left">
   <img src="Images/Zion_Canyon_Lamp.jpg" width="45%" />
   <img src="Images/Overhead_Base_With_Faceplates.jpg" width="45%" />
