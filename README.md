@@ -14,6 +14,8 @@ A modular magnetic lamp system with interchangeable 3D-printed terrain faceplate
 
 ## Gallery
 
-<img src="Images/Overhead_Base_With_Faceplates.jpg" alt="Overhead View with Faceplates" width="500"/>
+<p float="left">
+  <img src="Images/Zion_Canyon_Lamp.jpg" width="45%" />
+  <img src="Images/Overhead_Base_With_Faceplates.jpg" width="45%" />
+</p>
 
-<img src="Images/Zion_Canyon_Lamp.jpg" alt="Zion Canyon Lamp Lit Up" width="500"/>
